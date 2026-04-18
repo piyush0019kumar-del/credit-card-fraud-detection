@@ -19,4 +19,4 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ## Author
 Piyush Kumar
-Updated README with project details
+
