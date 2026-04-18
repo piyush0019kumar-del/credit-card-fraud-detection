@@ -19,4 +19,5 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 
 ## Author
 Piyush Kumar
+This project demonstrates end-to-end data science workflow.
 
