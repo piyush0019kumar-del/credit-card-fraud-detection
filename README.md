@@ -20,4 +20,6 @@ Python, NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn
 ## Author
 Piyush Kumar
 This project demonstrates end-to-end data science workflow.
+## Project Overview
+This project detects credit card fraud using machine learning.
 
